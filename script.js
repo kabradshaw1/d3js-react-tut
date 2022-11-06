@@ -1,8 +1,9 @@
-console.log(react)
-
+import React from "react";
+import ReactDOM from "react-dom";
+console.log(ReactDOM)
 const App = () => (
   <h1>Hello JSX</h1>
 );
 
 const rootElement = document.getElementById('root')
-ReactDom.render(<App />, rootElement);
+ReactDOM.render(<App />, rootElement);
