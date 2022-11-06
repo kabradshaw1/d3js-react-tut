@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "rollup": "^3.2.5",
+    "rollup-plugin-jsx": "^1.0.3"
+  }
+}
